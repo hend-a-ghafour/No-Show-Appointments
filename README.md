@@ -14,3 +14,12 @@ This dataset collects information from 100k medical appointments in Brazil and i
 * ***Handcap (HCP):*** an illness, injury, or condition that makes it difficult for someone to do some things that other people do. Where, _True = 1_ and _False = 0_.
 * ***SMS_received:*** 1 or more messages sent to the patient. Where, _True = 1_ and _False = 0_.
 * ***No-show:*** _ay_ ‘No’ if the patient showed up to their appointment,_and_‘Yes’ if they did not show up.
+
+# Addressed Questions:
+1. Do gender differences impact showing up to the appointment?
+2. Does the time between the scheduled date and the appointment date impact the likelihood of showing up?
+3. Does the patient's age affect their likelihood of attending their appointment?
+4. What is the impact of the neighborhood on the level of commitment to showing up for appointments?
+5. Is there a relationship between acquiring the Bolsa Família scholarship and the percentage of attendance?
+6. Does a diagnosis of hypertension, diabetes, alcoholism, or disability impact the level of appointment attendance?
+7. Does receiving messages impact patients' likelihood of attending their appointments?
