@@ -69,15 +69,35 @@
     - Analyze more data to see if this pattern holds consistently across larger or different samples.
     - Conduct statistical tests to check if the difference is significant.
 
+***6. Hypertension Dignosed Patients (HTN):***
+- Patients with Hypertension Diagnosis are more likely to attend their appointments, with a rate of *82.70%*, compared to *79.1%* for those who weren't diagnoses with Hypertension.
+- This can be considered an indicator, but it may not be a strong one on its own. The gap is noticeable, but relatively small *(3.6%)*.
+- **Further research:**
+    - Analyze more data to see if this pattern holds consistently across larger or different samples.
+    - Conduct statistical tests to check if the difference is significant.
 
+***7. diabetic Patients:***
+- Diabetic Patients are more likely to attend their appointments, with a rate of *82%*, compared to *79.64%* non-diabetic
+- This can be considered an indicator, but it may not be a strong one on its own. The gap is noticeable, but relatively small *(2.36%)*.
+- **Further research:**
+    - Analyze more data to see if this pattern holds consistently across larger or different samples.
+    - Conduct statistical tests to check if the difference is significant.
 
+***8. Handicapped Patients:***
+- Handicapped Patients are more likely to attend their appointments, with a rate of *81.84%*, compared to *79.76%* with no Handicap
+- This can be considered an indicator, but it may not be a strong one on its own. The gap is noticeable, but relatively small *(2.08%)*.
+- **Further research:**
+    - Analyze more data to see if this pattern holds consistently across larger or different samples.
+    - Conduct statistical tests to check if the difference is significant.
 
+***9. Patients with Alcohol-Related Problems:***
+- The attendence Rate for patients with or withaout alcohol-Related Problems are almost the same (*79.85% and 79.81* respectively).
+- Alcoholism column has no impact on the attendance rates.
 
-
-
-
-
-
+***10. Received appointment confirmation Messages:***
+- The difference in attendance rates *(83.30% vs. 72.43%) *is quite significant, showing an over *10%* increase in attendance when confirmation messages are sent. This suggests a clear and potentially impactful relationship between sending confirmation messages and improving appointment attendance.
+- **Suggestions:**
+    - Consider implementing automated confirmation systems to enhance attendance rates.
 
 
 
